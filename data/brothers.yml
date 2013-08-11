@@ -1,0 +1,505 @@
+---
+- letter: Π
+  brothers:
+  - line_num: 75
+    name: JM Huang
+    pledge_name: Caesar
+    school: CC
+    year: '16'
+    major: Undecided
+  - line_num: 76
+    name: Jaewon Kim
+    pledge_name: D.A.M.A.S.C.U.S.
+    school: CC
+    year: '16'
+    major: Undecided
+  - line_num: 77
+    name: Richard Lee
+    pledge_name: Foxtrot
+    school: CC
+    year: '16'
+    major: Undecided
+  - line_num: 78
+    name: Kevin Zheng
+    pledge_name: Camelot
+    school: CC
+    year: '16'
+    major: Undecided
+  - line_num: 79
+    name: Alex Chen
+    pledge_name: B.A.R.R.E.T.T.
+    school: CC
+    year: '15'
+    major: Applied Math
+- letter: Ο
+  brothers:
+  - line_num: 69
+    name: Michael Yang
+    pledge_name: Illuminati
+    school: SEAS
+    year: '15'
+    major: Computer Science
+  - line_num: 70
+    name: Andy Yang
+    pledge_name: ShadowHost
+    school: SEAS
+    year: '16'
+    major: Undecided
+  - line_num: 71
+    name: Daniel Chi
+    pledge_name: Alaric
+    school: CC
+    year: '16'
+    major: Biology
+  - line_num: 72
+    name: Albert Pan
+    pledge_name: Thunderfoot
+    school: CC
+    year: '16'
+    major: Economics & Mathematics
+  - line_num: 73
+    name: Elbert Low
+    pledge_name: Cadillac
+    school: GS
+    year: '14'
+    major: Economics
+  - line_num: 74
+    name: Patrick Yang
+    pledge_name: Butcher
+    school: CC
+    year: '16'
+    major: Premed
+- letter: Ν
+  brothers:
+  - line_num: 62
+    name: Paul Chang
+    pledge_name: Ragnarok
+    school: SEAS
+    year: '15'
+    major: Biomedical Engineering
+  - line_num: 63
+    name: Raymond Cai
+    pledge_name: S.A.B.R.E.
+    school: CC
+    year: '15'
+    major: Biology
+  - line_num: 64
+    name: Divya Singh
+    pledge_name: Hellfire
+    school: SEAS
+    year: '14'
+    major: Applied Physics
+  - line_num: 65
+    name: Andrew Yu
+    pledge_name: Galahad
+    school: CC
+    year: '15'
+    major: Undecided
+  - line_num: 66
+    name: Vince Chang
+    pledge_name: Altair
+    school: CC
+    year: '15'
+    major: Financial Economics
+  - line_num: 67
+    name: Daniel Kim
+    pledge_name: M.A.R.S.
+    school: CC
+    year: '15'
+    major: Biology
+  - line_num: 68
+    name: Minghuang Liu
+    pledge_name: Bodhi
+    school: CC
+    year: '15'
+    major: Computer Science
+- letter: Μ
+  brothers:
+  - line_num: 55
+    name: Don Yu
+    pledge_name: Bourne
+    school: SEAS
+    year: '14'
+    major: Computer Science
+  - line_num: 56
+    name: Kelvin Chan
+    pledge_name: A.T.O.M.
+    school: CC
+    year: '13'
+    major: Neuroscience
+  - line_num: 57
+    name: Jordan Valentine
+    pledge_name: Freeway
+    school: CC
+    year: '13'
+    major: Political Science
+  - line_num: 58
+    name: Kevin Cho
+    pledge_name: White Fang
+    school: CC
+    year: '14'
+    major: Financial Economics
+  - line_num: 59
+    name: Jason Chen
+    pledge_name: Dr.Manhattan
+    school: CC
+    year: '13'
+    major: Financial Economics
+  - line_num: 60
+    name: Justin Seek
+    pledge_name: Lancelot
+    school: CC
+    year: '14'
+    major: Undecided
+  - line_num: 61
+    name: Kevin Shin
+    pledge_name: Crosshair
+    school: CC
+    year: '14'
+    major: Economics
+- letter: Λ
+  brothers:
+  - line_num: 51
+    name: Matt Chang
+    pledge_name: Corsair
+    school: SEAS
+    year: '14'
+    major: Biomedical Engineering
+  - line_num: 52
+    name: Alex Jiang
+    pledge_name: M.E.S.S.I.A.H.
+    school: CC
+    year: '14'
+    major: Applied Math
+  - line_num: 53
+    name: Jonathan Liu
+    pledge_name: Throttle
+    school: SEAS
+    year: '14'
+    major: Computer Engineering
+  - line_num: 54
+    name: Kevin Zhang
+    pledge_name: Darkseid
+    school: SEAS
+    year: '14'
+    major: Financial Engineering
+- letter: Κ
+  brothers:
+  - line_num: 48
+    name: Inhak Kim
+    pledge_name: Hustle ‘N Flo
+    school: CC
+    year: '13'
+    major: Neuroscience
+  - line_num: 49
+    name: Justin Yang
+    pledge_name: Railspike
+    school: CC
+    year: '13'
+    major: Financial Economics
+  - line_num: 50
+    name: James Tsay
+    pledge_name: Quickdraw
+    school: CC
+    year: '13'
+    major: Economics & Mathematics
+- letter: Ι
+  brothers:
+  - line_num: 45
+    name: Hyungtae Kim
+    pledge_name: Fissure
+    school: SEAS
+    year: '13'
+    major: Computer Science
+  - line_num: 46
+    name: Jisoo Han
+    pledge_name: Fahrenheit
+    school: SEAS
+    year: '13'
+    major: Operations Research
+  - line_num: 47
+    name: Marcus Chin
+    pledge_name: A.M.M.O
+    school: GS
+    year: '11'
+    major: Economics
+- letter: Θ
+  brothers:
+  - line_num: 44
+    name: George Wei
+    pledge_name: Dismiss
+    school: SEAS
+    year: '2012'
+    major: Chemical Engineering
+  - line_num: 43
+    name: Julian Seek
+    pledge_name: Slaughter
+    school: CC
+    year: '2012'
+    major: Economics
+  - line_num: 42
+    name: Gilbert Choi
+    pledge_name: Hostile
+    school: CC
+    year: '12'
+    major: Chemistry
+- letter: Η
+  brothers:
+  - line_num: 37
+    name: Long Phan
+    pledge_name: Phenom
+    school: SEAS
+    year: '11'
+    major: Materials Science And Engineering
+  - line_num: 38
+    name: Derrick Fu
+    pledge_name: Constantine
+    school: CC
+    year: '13'
+    major: Econ – Poly Sci
+  - line_num: 39
+    name: Richard Huang
+    pledge_name: L.A.P.D.
+    school: SEAS
+    year: '12'
+    major: Earth and Environmental Engineering
+  - line_num: 40
+    name: Paul Kim
+    pledge_name: Napalm
+    school: SEAS
+    year: '13'
+    major: Operations Research
+  - line_num: 41
+    name: Jason Han
+    pledge_name: Comeback Kid
+    school: CC
+    year: '12'
+    major: Neuroscience and Behavior
+- letter: Ζ
+  brothers:
+  - line_num: 35
+    name: Andrew Lo
+    pledge_name: AKA Ferrari
+    school: SEAS
+    year: '10'
+    major: Engineering Management Systems
+  - line_num: 36
+    name: Eric Lee
+    pledge_name: First Blood
+    school: SEAS
+    year: '11'
+    major: Operations Research
+- letter: Ε
+  brothers:
+  - line_num: 31
+    name: Simon Cho
+    pledge_name: Departed
+    school: CC
+    year: '11'
+    major: Physics
+  - line_num: 32
+    name: David Lee
+    pledge_name: S.H.I.R.E.
+    school: SEAS
+    year: '11'
+    major: Financial Engineering
+  - line_num: 33
+    name: Kelvin Wong
+    pledge_name: Souljja
+    school: CC
+    year: '11'
+    major: Economics/Bio/Pre-Med
+  - line_num: 34
+    name: John Park
+    pledge_name: Illness
+    school: CC
+    year: '11'
+    major: Biochemistry
+- letter: Δ
+  brothers:
+  - line_num: 24
+    name: Jeff Chou
+    pledge_name: Marvel
+    school: SEAS
+    year: '10'
+    major: Engineering Management Systems
+  - line_num: 25
+    name: Zeus Wu
+    pledge_name: Kinkos
+    school: SEAS
+    year: '10'
+    major: IEOR
+  - line_num: 26
+    name: Alex Dinh
+    pledge_name: Altoid
+    school: SEAS
+    year: '10'
+    major: Biomedical Engineering
+  - line_num: 27
+    name: Hiemann Lee
+    pledge_name: B.A.P.E.
+    school: SEAS
+    year: '10'
+    major: Mechanical Engineering
+  - line_num: 28
+    name: Minsoo Seok
+    pledge_name: Underground
+    school: ~
+    year: ~
+    major: ~
+  - line_num: 29
+    name: Garam Sohn
+    pledge_name: Entourage
+    school: SEAS
+    year: '10'
+    major: ~
+  - line_num: 30
+    name: Henry Lin
+    pledge_name: Jurassic
+    school: SEAS
+    year: '10'
+    major: Civil Engineering
+- letter: Γ
+  brothers:
+  - line_num: 22
+    name: Praneeth Kocherlakota
+    pledge_name: Mastermind
+    school: SEAS
+    year: '10'
+    major: ~
+  - line_num: 23
+    name: Andre Heng
+    pledge_name: No Limit
+    school: ~
+    year: ~
+    major: ~
+- letter: Β
+  brothers:
+  - line_num: 13
+    name: Albert Lee
+    pledge_name: A-dub
+    school: SEAS
+    year: 09
+    major: Operations Research
+  - line_num: 14
+    name: Jonathan An
+    pledge_name: Espionage
+    school: SEAS
+    year: 09
+    major: Engineering Management Systems
+  - line_num: 15
+    name: Sean Kim
+    pledge_name: Scrilla
+    school: CC
+    year: 09
+    major: EALAC and Political Science
+  - line_num: 16
+    name: Eric Chong
+    pledge_name: Riptide
+    school: SEAS
+    year: 09
+    major: Engineering Management Systems
+  - line_num: 17
+    name: Frank Zhi
+    pledge_name: Confucius Say...
+    school: SEAS
+    year: 09
+    major: Operations Research
+  - line_num: 18
+    name: George Cen
+    pledge_name: Diddy
+    school: ~
+    year: 09
+    major: ~
+  - line_num: 19
+    name: Robert Lee
+    pledge_name: Freestyle
+    school: SEAS
+    year: 09
+    major: Operations Research
+  - line_num: 20
+    name: Johnnie Yoo
+    pledge_name: Sprint
+    school: SEAS
+    year: 09
+    major: Operations Research
+  - line_num: 21
+    name: Robert Kim
+    pledge_name: P.I.M.P.
+    school: CC
+    year: 09
+    major: Political Science
+- letter: Α
+  brothers:
+  - line_num: 1
+    name: Edward Kim
+    pledge_name: Diesel
+    school: ~
+    year: ~
+    major: ~
+  - line_num: 2
+    name: William Kim
+    pledge_name: Rogue
+    school: ~
+    year: ~
+    major: ~
+  - line_num: 3
+    name: Jessie Pak
+    pledge_name: Prodigy
+    school: ~
+    year: ~
+    major: ~
+  - line_num: 4
+    name: Michael Lee
+    pledge_name: Apostle
+    school: ~
+    year: ~
+    major: ~
+  - line_num: 5
+    name: George Liao
+    pledge_name: Element
+    school: ~
+    year: ~
+    major: ~
+  - line_num: 6
+    name: Andrew Choi
+    pledge_name: Sub Zero
+    school: ~
+    year: ~
+    major: ~
+  - line_num: 7
+    name: Richard Chun
+    pledge_name: Morpheus
+    school: ~
+    year: ~
+    major: ~
+  - line_num: 8
+    name: Albert Lee
+    pledge_name: Chosen
+    school: ~
+    year: ~
+    major: ~
+  - line_num: 9
+    name: Douglas Lee
+    pledge_name: Justice
+    school: ~
+    year: ~
+    major: ~
+  - line_num: 10
+    name: Christopher Hwang
+    pledge_name: Quiet Storm
+    school: ~
+    year: ~
+    major: ~
+  - line_num: 11
+    name: Ben Koo
+    pledge_name: Crow
+    school: ~
+    year: ~
+    major: ~
+  - line_num: 12
+    name: Joseph Kim
+    pledge_name: Hwoarang
+    school: ~
+    year: ~
+    major: ~

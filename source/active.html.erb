@@ -1,0 +1,17 @@
+<section id="brothers" class="row">
+  <h1>Active Brothers</h1>
+  <ul id="classes">
+    <% data.brothers.reverse.each do |c| %>
+      <div class="row">
+        <% if data.active.classes.include? c.letter %>
+          <h2 class="letter"><%= c.letter %></h2>
+        <% end %>
+        <% c.brothers.each do |brother| %>
+          <% if data.active.classes.include? c.letter and !data.active.del.include? brother.line_num %>
+            <%= partial "brother", locals: {brother: brother} %>
+          <% end %>
+        <% end %>
+      </div>
+    <% end %>
+  </ul>
+</section>

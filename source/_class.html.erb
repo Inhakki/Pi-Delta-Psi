@@ -1,0 +1,6 @@
+<h2 class="letter"><%= c.letter %></h2>
+<div class="row" id="brothers">
+  <% c.brothers.each do |brother| %>
+    <%= partial "brother", locals: {brother: brother} %>
+  <% end %>
+</div>

@@ -1,0 +1,14 @@
+<section id="events" class="row">
+  <h1>Events</h1>
+  <% data.events.each do |event| %>
+    <div class="event row">
+      <div class="row">
+        <h2 class="large-12 columns"><%= event.date %> | <%= event.title %></h2>
+      </div>
+      <div class="large-10 large-centered columns">
+        <%= tag :img, src: event.image %>
+        <p><%= event.description %></p>
+      </div>
+    </div>
+  <% end %>
+</section>

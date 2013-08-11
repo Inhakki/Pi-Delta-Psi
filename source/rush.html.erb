@@ -1,0 +1,23 @@
+<section id="rush" class="row">
+  <h1>Rush</h1>
+  <div class="row">
+    <div class="large-5 columns">
+    <p> Rush is a series of events held at the beginning of the semester for students who are interested in joining Pi Delta Psi. During these events, prospective members are given an opportunity to meet the brothers. This gives students a glimpse into fraternity life and allows brothers the chance to get to know prospective members.<p>
+    <p>There are absolutely NO commitments or obligations during rush. All the events are there for you to come and chill with the brothers of Pi Delta Psi.<p>
+    <h2>Contact</h2>
+    <p>Thanks for reaching out. Please feel free to email us at <a href="mailto:cupdpsieboard@gmail.com">cupdpsieboard@gmail.com</a>. If you are looking to connect with a specific member of the Columbia University Pi Delta Psi fraternity, we encourage you to email them directly.</p>
+    </div>
+    <div class="large-7 columns">
+      <iframe width="640" height="360" src="http://www.youtube.com/embed/rzXDqnY4MLA" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </div>
+</section>
+<section id="photos" class="row">
+  <% ary_in_groups_of(data.photos, 3).each do |group| %>
+    <div class="large-4 columns">
+      <% group.each do |photo| %>
+          <img style="max-width: 100%;" src="<%= photo %>">
+      <% end %>
+    </div>
+  <% end %>
+</section>

@@ -1,0 +1,15 @@
+<ul id="letters">
+  <% data.brothers.reverse.each do |c| %>
+    <li><a class="scrollTo" href="#<%= c.letter %>"><%= c.letter %></a></li>
+  <% end %>
+</ul>
+<section id="brothers" class="row">
+  <h1>Brothers</h1>
+  <ul id="classes">
+    <% data.brothers.reverse.each do |c| %>
+      <li id="<%= c.letter %>">
+        <%= partial "class", locals: {c: c} %>
+      </li>
+    <% end %>
+  </ul>
+</section>
