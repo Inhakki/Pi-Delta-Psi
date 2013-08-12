@@ -2,6 +2,6 @@
   <div class="large-6 columns">
     <h4><strong><%= "##{brother.line_num} #{brother.name} - #{brother.pledge_name}" %></strong></h4>
     <p><%= brother.school %><%= "'#{brother.year}" if brother.year %> <%= "| #{brother.major}" if brother.major %></p>
-    <%= tag :img, src: "images/brothers/#{brother.name.sub(" ", "_").downcase}.jpg", width: "150px" %>
+    <%= tag :img, src: "images/brothers/#{brother.name.sub(" ", "_").downcase}.jpg", width: "150px", onerror: "this.src='images/placeholder.jpg';" %>
   </div>
 </div>
