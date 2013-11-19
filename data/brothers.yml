@@ -1,4 +1,36 @@
 ---
+- letter: Ρ
+  brothers:
+  - line_num: 80
+    name: Samir Canning
+    pledge_name: Shellshock
+    school: CC
+    year: '17'
+    major: Undecided
+  - line_num: 81
+    name: Wei Shen Ng
+    pledge_name: Bismarck
+    school: GS
+    year: '17'
+    major: Undecided
+  - line_num: 82
+    name: Philip Lee
+    pledge_name: Djinn
+    school: CC
+    year: '17'
+    major: Undecided
+  - line_num: 83
+    name: Peter Li
+    pledge_name: Noir
+    school: CC
+    year: '16'
+    major: Undecided
+  - line_num: 84
+    name: James Kweon
+    pledge_name: Tartarus
+    school: CC
+    year: '17'
+    major: Undecided
 - letter: Π
   brothers:
   - line_num: 75
